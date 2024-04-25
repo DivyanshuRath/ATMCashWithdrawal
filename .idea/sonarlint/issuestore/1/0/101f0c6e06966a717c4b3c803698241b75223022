@@ -1,3 +1,6 @@
 
-^
-java:S1126"AReplace this if-then-else statement by a single return statement.(¯Ó™‘8¬üÄ¡ñ1
+L
+java:S3740("/Provide the parametrized type for this generic.(û¸ã´8ú»¢¥ñ1
+u	java:S1356"YReduce the total number of break and continue statements in this loop to use at most one.(Çóö²8ú»¢¥ñ1
+
+java:S1319("sThe return type of this method should be an interface such as "Map" rather than the implementation "LinkedHashMap".(û¸ã´8ú»¢¥ñ1
